@@ -1,8 +1,5 @@
 # CS6301 Project
 
-### Team Members:
-- **AXP210228** - Akhila Petnikota
-
 ## Instructions for Running the Project
 
 1. **Ensure the Following Setup:**

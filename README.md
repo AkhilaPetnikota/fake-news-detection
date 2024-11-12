@@ -2,8 +2,6 @@
 
 ### Team Members:
 - **AXP210228** - Akhila Petnikota
-- **PXT210026** - Pavan Thota
-- **VXS210076** - Vinay Sugasi
 
 ## Instructions for Running the Project
 
